@@ -1,0 +1,133 @@
+[{
+  "_id": {
+    "$oid": "67c67f2196d2d1cf1b66cd77"
+  },
+  "name": "CHILS",
+  "impact": "ALTO",
+  "years": "60000",
+  "category": "PEQUEÑA_EMPRESA",
+  "keeper": {
+    "$oid": "67c67da296d2d1cf1b66cd72"
+  },
+  "status": true,
+  "createdAt": {
+    "$date": "2025-03-04T04:18:41.525Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-05T01:38:51.729Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67c689ab762edadf3aa0f819"
+  },
+  "name": "ODATLER",
+  "impact": "ALTO",
+  "years": "60000",
+  "category": "MICROEMPRESA",
+  "keeper": {
+    "$oid": "67c67da296d2d1cf1b66cd72"
+  },
+  "status": true,
+  "createdAt": {
+    "$date": "2025-03-04T05:03:39.875Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-04T05:03:39.875Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67c689ec762edadf3aa0f81d"
+  },
+  "name": "BLISSO",
+  "impact": "ALTO",
+  "years": "60000",
+  "category": "MICROEMPRESA",
+  "keeper": {
+    "$oid": "67c67da296d2d1cf1b66cd72"
+  },
+  "status": true,
+  "createdAt": {
+    "$date": "2025-03-04T05:04:44.269Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-04T05:04:44.269Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67c68a0e762edadf3aa0f821"
+  },
+  "name": "THE BLACK LABEL",
+  "impact": "ALTO",
+  "years": "60000",
+  "category": "MICROEMPRESA",
+  "keeper": {
+    "$oid": "67c67da296d2d1cf1b66cd72"
+  },
+  "status": true,
+  "createdAt": {
+    "$date": "2025-03-04T05:05:18.661Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-04T05:05:18.661Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67c690b8c0ecdfd03bed77a1"
+  },
+  "name": "THE BLACK LABEL",
+  "impact": "ALTO",
+  "years": "60000",
+  "category": "PEQUEÑA_EMPRESA",
+  "keeper": {
+    "$oid": "67c67da296d2d1cf1b66cd72"
+  },
+  "status": true,
+  "createdAt": {
+    "$date": "2025-03-04T05:33:44.484Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-04T05:33:44.484Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67c7a847b286322229caf7e0"
+  },
+  "name": "THE BLACK LABEL",
+  "impact": "ALTO",
+  "years": "60000",
+  "category": "PEQUEÑA_EMPRESA",
+  "keeper": {
+    "$oid": "67c67da296d2d1cf1b66cd72"
+  },
+  "status": true,
+  "createdAt": {
+    "$date": "2025-03-05T01:26:31.798Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-05T01:26:31.798Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67c7aa7eed0859bbd3c905da"
+  },
+  "name": "Chils",
+  "impact": "ALTO",
+  "years": "60000",
+  "category": "PEQUEÑA_EMPRESA",
+  "keeper": {
+    "$oid": "67c67da296d2d1cf1b66cd72"
+  },
+  "status": true,
+  "createdAt": {
+    "$date": "2025-03-05T01:35:58.351Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-05T01:35:58.351Z"
+  }
+}]
